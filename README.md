@@ -32,7 +32,10 @@ Please list two areas of the assignment you'd like to **discuss further with you
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
+gif too big to load... I leave the link and youtube link here.
+http://i.imgur.com/qSsXy9c.gif
 
+https://youtu.be/_EcORYvKMfU
 <img src='http://i.imgur.com/qSsXy9c.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
